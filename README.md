@@ -9,7 +9,7 @@ Using VBA we calculated
     Calculated stock with greatest % increase, greatest % decrease and greatest total volume
     Also added conditional formatting to querterly change and percent change
 
-stock market/q1.png
-stock market/q2.png
-stock market/q3.png
-stock market/q4.png
+https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q1.png
+https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q2.png
+https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q3.png
+https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q4.png
