@@ -11,8 +11,8 @@ Using VBA we calculated
 
 
 Follwing are screen shots of each quarter
-\stock market\q1.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q1.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q2.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q3.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q4.png
+
+/blob/main/stock%20market/q1.png
+/blob/main/stock%20market/q2.png
+/blob/main/stock%20market/q3.png
+/blob/main/stock%20market/q4.png
