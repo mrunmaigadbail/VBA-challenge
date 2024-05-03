@@ -12,7 +12,7 @@ Using VBA we calculated
 
 Follwing are screen shots of each quarter
 
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q1.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q2.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q3.png
-https://github.com/mrunmaigadbail/VBA-challenge/blob/main/stock%20market/q4.png
+![q1](https://github.com/mrunmaigadbail/VBA-challenge/assets/141286475/0ffaf475-a71e-4032-8a22-06020ae11f38)
+![q2](https://github.com/mrunmaigadbail/VBA-challenge/assets/141286475/e4a41aa1-a50d-4452-aee3-5652419c1336)
+![q3](https://github.com/mrunmaigadbail/VBA-challenge/assets/141286475/e08e2ef5-fe9a-44bf-8dd4-2e218627388a)
+![q4](https://github.com/mrunmaigadbail/VBA-challenge/assets/141286475/5d0944c0-379c-43be-a937-cfd75004145c)
